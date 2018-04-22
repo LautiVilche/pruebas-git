@@ -1,3 +1,4 @@
-print "Hola mundo soy Git"
-pritn "\nEsto es un print\n"
-print "Aguante Python"
+print "Hola mundo\n"
+print "Esto es un print\n"
+print "Bueno adios\n"
+print "Aguante Python\n"
